@@ -1,5 +1,5 @@
 ## Dentition - Dental clinic Website
-#Future ready talent project  by Anushka 
+#Future ready talent project by Anushka 
 
 This is my FRT project. 
 
